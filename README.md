@@ -2,13 +2,11 @@
 
 ### Instructions:
 
-In order to increase my opportunities and potential as a data scientist, I have learned and developed my data engineering skills.
-
-In order to create a model for an API that categorizes disaster messages, I'll use these abilities to analyze disaster data from Appen.
+I've gained and developed my data engineering abilities in this course, which will increase my possibilities and potential as a data scientist. In order to create a model for an API that categorizes catastrophe messages, I'll use these abilities in this project to evaluate disaster data from Appen.
 
 ### File in the repository
 
-
+```
 app
 | - template
 | |- master.html # main page of web app
@@ -23,7 +21,7 @@ models
 |- train_classifier.py
 |- classifier.pkl # saved model
 README.md
-
+```
 
 1. Run the following commands in the project's root directory to set up your database and model.
 
